@@ -4,6 +4,8 @@ Welcome to NewsBlitz, a real-time news application that delivers the latest news
 
 ![NewsBlitz](https://github.com/hardikk258/NewsBlitz-News-App/blob/main/public/NewsBlitzThumbnail.png)
 
+You can see a live demo of the React app here:- https://newsblitz.netlify.app/
+
 ## Features
 
 - **Real-time News Updates**: Integrated multiple news APIs to fetch and display the latest news.
